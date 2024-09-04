@@ -81,7 +81,7 @@ Task CLI is a command-line tool for managing tasks. You can add, update, delete,
 
 ## Project Structure
 ```sh
-task-cli/
+task_tracker_cli/
 │
 ├── bin/
 │   └── index.js          # Entry point for the CLI
