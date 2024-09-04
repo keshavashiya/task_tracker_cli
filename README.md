@@ -7,8 +7,8 @@ Task CLI is a command-line tool for managing tasks. You can add, update, delete,
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd task-cli
+   git clone https://github.com/keshavashiya/task_tracker_cli
+   cd task_tracker_cli
    ```
 
 2. Install the dependencies:
