@@ -1,6 +1,6 @@
 # Task CLI
 
-Task CLI is a command-line tool for managing tasks. You can add, update, delete, mark tasks as in-progress or done, and list tasks with different statuses.
+Task CLI is a command-line tool for managing tasks. You can add, update, delete, mark tasks as in-progress or done, and list tasks with different statuses https://roadmap.sh/projects/task-tracker.
 
 ## Installation
 
