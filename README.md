@@ -88,10 +88,10 @@ task-cli/
 │
 ├── src/
 │   ├── commands/
-│   │   └── commands.js   # Command implementations
+│   │   ├── commands.js   # Command implementations
+│   │   └── tasks.json    # JSON file to store tasks
 │   └── logger.js         # Logger implementation
 │
-├── tasks.json            # JSON file to store tasks
 │
 ├── package.json          # Project metadata and dependencies
 │
